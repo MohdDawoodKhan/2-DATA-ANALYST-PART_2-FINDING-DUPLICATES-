@@ -1,4 +1,4 @@
-inding Missing Values in a Dataset
+Finding Missing Values in a Dataset
 This notebook demonstrates how to identify and visualize missing values in a dataset using Python. It is a fundamental step in the Exploratory Data Analysis (EDA) process to ensure data quality before applying any data preprocessing or modeling techniques.
 
 📌 Objective
